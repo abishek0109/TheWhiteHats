@@ -1,6 +1,3 @@
-# TheWhiteHats
-Technical Application
-
 
 # WhiteHats Application
 
