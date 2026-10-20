@@ -9,9 +9,9 @@ I'm interested in technology, problem-solving, and exploring how things work beh
 
 ## 2. Why I Want to Join WhiteHats
 
-I want to join WhiteHats because I'm interested in learning more about cybersecurity and understanding how systems can be protected from attacks. I'm still a beginner in this field, but I'm ready to learn, explore new tools, and gain practical experience.
+I want to join WhiteHats because of my growing interest in cybersecurity and the opportunity to learn, contribute, and grow alongside people who share similar interests. My first hackathon experience introduced me to the importance of cybersecurity through our project, BreachBuddy, and motivated me to explore the field further.
 
-Through hackathons and other technical activities, I've realised that I enjoy learning new things by working on real problems. I believe WhiteHats would be a good place to improve my technical skills, learn from people with similar interests, and contribute to the community. I'm looking forward to stepping out of my comfort zone and growing as a cybersecurity enthusiast.
+I'm still a beginner in cybersecurity, but I'm eager to learn more about how systems can be protected from attacks, explore new tools, and gain practical experience. Through hackathons and other technical activities, I've realised that I enjoy learning by working on real-world problems.
 
 ## 3. A Recent Cybersecurity Incident I Read About
 
