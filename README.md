@@ -5,7 +5,7 @@
 
 Hi, I'm **Abishek Palaniappan Ka**, an Integrated M.Tech Computer Science and Engineering (Data Science) student at VIT Vellore.
 
-I'm interested in technology, problem-solving, and exploring how things work behind the scenes. I've participated in hackathons and worked on projects involving AI and software development. I have also completed the Cyber Security Fundamentals course offered by NIELIT, which has motivated me to explore this field further.
+I'm interested in technology, problem-solving, and exploring how things work behind the scenes. I've participated in hackathons and worked on projects involving AI and software development. 
 
 ## 2. Why I Want to Join WhiteHats
 
